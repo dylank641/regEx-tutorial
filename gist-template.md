@@ -24,6 +24,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ### Anchors
     all day
+`gagf`
 ### Quantifiers
 
 ### OR Operator
