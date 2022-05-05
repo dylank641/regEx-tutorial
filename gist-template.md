@@ -23,7 +23,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
-
+    all day
 ### Quantifiers
 
 ### OR Operator
